@@ -1,0 +1,63 @@
+
+*{
+    margin:0;
+}
+header{
+    height: 200px;
+    padding: 10px;
+    background: #582679;
+    color: #242826;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+div ul li{
+    display:inline;
+   
+}
+div ul li a{
+    text-decoration: none;
+    
+}
+div ul li:hover{
+    background: #242826;
+    color:rgb(145, 156, 80);
+    text-decoration: none;
+}
+#menu{
+    background: black;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:20px;
+}
+.icono{
+    height:80px;
+    width: 80px;
+    float:left;
+    
+}
+.areaprincipal{
+    padding: 350px 40px 20px ;
+    background: rgb(240, 142, 142);
+    margin:90px;
+    text-align: start;
+
+}
+
+.piepagina{
+    background: #a12d2d;
+}
+#datos p{
+ text-align: center;
+ 
+
+ 
+}
+footer{
+    background:#a12d2d;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
